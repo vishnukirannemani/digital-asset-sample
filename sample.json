@@ -1,5 +1,5 @@
 {
-  name: "vishnu"
-  age: 22
-  id : 1234
+  "name": "vishnu"
+  "age": 22
+  "id" : 1234
 }
